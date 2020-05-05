@@ -92,7 +92,18 @@ Request : DELETE
 
 ### Demo
 
-<!-- #### All Exercises  : http://localhost:5000/Qexercises/update/:id
-Request : DELETE
+#### All Exercises  : http://localhost:3000
+  ![alt text](https://github.com/khairul-abdi/ExcerTracker/blob/master/frontend/public/img/all-exercises-frontend.png)
 
-  ![alt text](https://github.com/khairul-abdi/ExcerTracker/blob/master/frontend/public/img/delete-exercises.png) -->
+
+  #### Add Exercises  : http://localhost:3000/create
+  ![alt text](https://github.com/khairul-abdi/ExcerTracker/blob/master/frontend/public/img/add-exercise-frontend.png)
+
+
+  #### Update Exercises  : http://localhost:3000/edit/:id
+  ![alt text](https://github.com/khairul-abdi/ExcerTracker/blob/master/frontend/public/img/update-exercise-frontend.png)
+
+
+  #### Add User  : http://localhost:3000/user
+  ![alt text](https://github.com/khairul-abdi/ExcerTracker/blob/master/frontend/public/img/add-user-frontend.png)
+
