@@ -1,4 +1,4 @@
-# ExcerTracker
+# [ExcerTracker](https://mern-exercises-tracker.herokuapp.com/)
 
 ### In this App, we need 5 dependencies below:
 
@@ -90,7 +90,7 @@ Request : DELETE
 
   ![alt text](https://github.com/khairul-abdi/ExcerTracker/blob/master/frontend/public/img/delete-exercises.png)
 
-### Demo
+### [Demo](https://mern-exercises-tracker.herokuapp.com/)
 
 #### All Exercises  : http://localhost:3000
   ![alt text](https://github.com/khairul-abdi/ExcerTracker/blob/master/frontend/public/img/all-exercises-frontend.png)
